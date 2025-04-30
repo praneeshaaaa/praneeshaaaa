@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Praneesha Sapkota
 
 <!--<h1 align="center">Hi 👋, I'm Praneesha Sapkota</h1>
 <h3 align="center">A passionate developer from [Your Country]</h3>
