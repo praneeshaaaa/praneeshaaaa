@@ -43,7 +43,7 @@
 <p>
   <a href="https://www.instagram.com/_praneeshasapkota_/?hl=en" target="_blank"> 
     <a href="https://www.instagram.com/yourusername" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fqEbd86EwKifAHI_mVaM4Zs17HwNmZjzfg&s" alt="Instagram" width="30"/>
+  <img src="![images_1_-removebg-preview](https://github.com/user-attachments/assets/ebc6236b-f5fe-4192-9de4-6a1de634b647)" alt="Instagram" width="40"/
 </a>
   <a href="mailto:praneeshasapkota5@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
