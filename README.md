@@ -1,5 +1,5 @@
 <html><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=500&lines=Hi+👋,+I'm+Praneesha+Sapkota; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=500&lines=Hi+👋,+I'm+Praneesha+Sapkota;/>
 </p>
 
 <h3 align="center">student of radiant college</h3>
