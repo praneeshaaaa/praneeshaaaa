@@ -6,19 +6,16 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=praneeshaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshaaaa" /> 
-</p>A
+</p>
 
-- 🔭 <p align="left">
--  I’m currently studying B.tech(Ed IT) from [Radiant College](https://www.radiantcollege.edu.np/)
+  <p align="left">
+-  🔭 I’m currently studying B.tech(Ed IT) from [Radiant College](https://www.radiantcollege.edu.np/)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **web development, React, or anything tech!**
 
 - 📫 How to reach me: **[praneeshasapkota5@gmail.com]**
--
-
----
 
 ### 🛠️ Languages and Tools:
 <p>
