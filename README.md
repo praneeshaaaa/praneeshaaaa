@@ -42,7 +42,8 @@
 
 <p>
   <a href="https://www.instagram.com/_praneeshasapkota_/?hl=en" target="_blank">
-    <img src="https://www.google.com/imgres?q=insta%20logo&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F17%2F76%2F0a%2F17760a6daad2edf7f4d9b837b5437246.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F846043479985135363%2F&docid=EI2pGBMifxbUoM&tbnid=L2bGMpZWK0BVQM&vet=12ahUKEwjMo-SN34GNAxV1yDgGHacsMdoQM3oECHQQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwjMo-SN34GNAxV1yDgGHacsMdoQM3oECHQQAA" alt="Instagram" width="30"/>
+    <img src="![Instagram Logo Modern Paint Splash Social Media Png](https://github.com/user-attachments/assets/22b322b0-ba58-4911-964a-ec54bef96479)
+" alt="Instagram" width="30"/>
   </a>
   <a href="mailto:praneeshasapkota5@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
