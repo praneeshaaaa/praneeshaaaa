@@ -9,7 +9,7 @@
 </p>A
 
 - 🔭 <p align="left">
--  I’m currently studying B.tech(Ed IT) from [Radiant College](https://radiant.edu.np)
+-  I’m currently studying B.tech(Ed IT) from [Radiant College](https://www.radiantcollege.edu.np/)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
