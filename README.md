@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-<!--<h1 align="center">Hi 👋, I'm Praneesha Sapkota</h1>
+<html><h1 align="center">Hi 👋, I'm Praneesha Sapkota</h1>
 <h3 align="center">A passionate developer from [Your Country]</h3>
 
 <p align="left"> 
@@ -51,3 +48,4 @@
   </a>
 </p>
 
+</html>
