@@ -41,9 +41,9 @@
 ### 🌐 Connect with me:
 
 <p>
-  <a href="https://www.instagram.com/_praneeshasapkota_/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/_praneeshasapkota_/?hl=en" target="_blank"> 
     <a href="https://www.instagram.com/yourusername" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="Instagram" width="30" />
+  <img src="https://www.onlygfx.com/wp-content/uploads/2022/03/instagram-logo-splatter-4-cover.jpg" alt="Instagram" width="30"/>
 </a>
   <a href="mailto:praneeshasapkota5@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
