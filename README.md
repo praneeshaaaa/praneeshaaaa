@@ -1,9 +1,12 @@
-<html><h1 align="center">Hi 👋, I'm Praneesha Sapkota</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<html><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=500&lines=Hi+👋,+I'm+Praneesha+Sapkota;A+passionate+developer+from+Nepal" alt="Typing SVG" />
+</p>
+
+<h3 align="center">A passionate developer from nepal</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=praneeshaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshaaaa" /> 
-</p>
+</p>A
 
 - 🔭 I’m currently studying B.tech(Ed IT) from Radiant College
 
