@@ -42,9 +42,9 @@
 
 <p>
   <a href="https://www.instagram.com/_praneeshasapkota_/?hl=en" target="_blank">
-    <img src="![Instagram Logo Modern Paint Splash Social Media Png](https://github.com/user-attachments/assets/22b322b0-ba58-4911-964a-ec54bef96479)
-" alt="Instagram" width="30"/>
-  </a>
+    <a href="https://www.instagram.com/yourusername" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="Instagram" width="30" />
+</a>
   <a href="mailto:praneeshasapkota5@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
   </a>
