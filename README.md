@@ -8,7 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=praneeshaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshaaaa" /> 
 </p>A
 
-- 🔭 I’m currently studying B.tech(Ed IT) from Radiant College
+- 🔭 <p align="left">
+<img src="<img src="https://www.radiantcollege.edu.np/" alt="Radiant College" />
+
+- I’m currently studying B.tech(Ed IT)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
