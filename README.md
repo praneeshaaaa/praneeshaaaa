@@ -46,6 +46,6 @@
   <img src="https://i.pinimg.com/736x/e0/ce/21/e0ce216ce3b4681f7c18767a70a1e186.jpg" alt="Instagram" width="40"/
 </a>
   <a href="mailto:praneeshasapkota5@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
 </p>
