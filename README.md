@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 
+- 🔭  I’m currently studying B.tech(Ed IT) from [Radiant College](https://radiantcollege.edu.np/) 
 - 🌱 I’m currently learning **JavaScript and React**
 - 💬 Ask me about **web development, React, or anything tech!**
 - 📫 How to reach me: **praneeshasapkota5@gmail.com**
