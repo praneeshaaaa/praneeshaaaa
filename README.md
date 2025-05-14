@@ -44,11 +44,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
 </p>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+ 
 
 
 
