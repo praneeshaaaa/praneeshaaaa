@@ -18,8 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
- <img src="![c-plus-plus-93c7ddd5cc-removebg-preview](https://github.com/user-attachments/assets/1f61170a-6ba4-4037-b1b7-56677dfbbad5)
-" alt="CSS" width="40"/>
+ <img src="![image](https://github.com/user-attachments/assets/409d5234-a178-4ac1-9275-db69947ddbea)" alt="CSS" width="40"/>
 </p>
 
 ---
