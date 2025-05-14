@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://www.google.com/imgres?q=c%2B%2B%20logo&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2F911_c_logo.jpg&imgrefurl=https%3A%2F%2Flogowik.com%2Fc-vector-logo-1-3398.html&docid=bKPHtB4kAym3GM&tbnid=-GkeNcBojcGq9M&vet=12ahUKEwj75qSGu6KNAxUhzjgGHapwHckQM3oECDcQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwj75qSGu6KNAxUhzjgGHapwHckQM3oECDcQAA" alt="C++" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw3yQouSgC7frsgec_xvcsCS&ust=1747294948565000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDg78S7oo0DFQAAAAAdAAAAABAE" alt="C++" width="40" height="40"/>
 </p>
 
 ---
