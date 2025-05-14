@@ -44,10 +44,12 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
 </p>
-<p>
-<a href="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg">
- <a/>
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  </picture>
+
 
 
 
