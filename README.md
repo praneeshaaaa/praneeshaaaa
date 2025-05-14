@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="![image](https://github.com/user-attachments/assets/82adacc2-c07b-49b9-a6e0-d6dffae86baf)" alt="C++" width="40" height="40"/>
+  <img src="https://www.google.com/imgres?q=c%2B%2B%20logo&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2F911_c_logo.jpg&imgrefurl=https%3A%2F%2Flogowik.com%2Fc-vector-logo-1-3398.html&docid=bKPHtB4kAym3GM&tbnid=-GkeNcBojcGq9M&vet=12ahUKEwj75qSGu6KNAxUhzjgGHapwHckQM3oECDcQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwj75qSGu6KNAxUhzjgGHapwHckQM3oECDcQAA" alt="C++" width="40" height="40"/>
 </p>
 
 ---
