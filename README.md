@@ -44,5 +44,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
 </p>
-![Snake animation](https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg)
+<p>
+<a href="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg">
+ <a/>
+</p>
+
+
 
