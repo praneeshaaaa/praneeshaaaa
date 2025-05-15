@@ -28,6 +28,11 @@
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=praneeshaaaa&show_icons=true&theme=radical" alt="GitHub stats" />
+### 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneeshaaaa&layout=compact&langs_count=5&theme=radical&hide=Html,CSS,Javascript,React)
+
+
 </p>
 
 ---
