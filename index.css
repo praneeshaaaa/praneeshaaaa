@@ -1,11 +1,11 @@
-/* Reset default styles */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body and font settings */
+
 body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
@@ -13,7 +13,7 @@ body {
   color: #333;
 }
 
-/* Header styles */
+
 .header {
   background-color: #333;
   color: #fff;
@@ -39,7 +39,7 @@ body {
   color: #47b2e4;
 }
 
-/* Hero section */
+
 .hero {
   background: linear-gradient(to right, #175d69, #330c43);
   color: #fff;
@@ -70,7 +70,7 @@ body {
   background-color: #3a9bbf;
 }
 
-/* Section styles */
+
 .section {
   padding: 3rem 2rem;
   text-align: center;
@@ -81,7 +81,7 @@ body {
   margin-bottom: 1.5rem;
 }
 
-/* Service cards */
+
 .service-cards {
   display: flex;
   justify-content: space-around;
@@ -107,7 +107,6 @@ body {
   color: #555;
 }
 
-/* Footer styles */
 .footer {
   background-color: #333;
   color: #fff;
