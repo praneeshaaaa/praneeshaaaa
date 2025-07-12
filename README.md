@@ -1,4 +1,4 @@
-                               Hello there! I'm Praneesha Sapkota.
+  Hello there! I'm Praneesha Sapkota.
 
 
 - 🎓 I'm currently studying B.Tech(Ed IT) at [Radiant College](https://radiantcollege.edu.np/)
