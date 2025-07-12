@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=👋+Hello%2C+I'm+Praneesha" alt="Typing SVG" />
-</p>
-
-
+                               Hello there! I'm Praneesha Sapkota.
 
 
 - 🎓 I'm currently studying B.Tech(Ed IT) at [Radiant College](https://radiantcollege.edu.np/)
