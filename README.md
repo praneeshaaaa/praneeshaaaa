@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=👋+Hello%2C+I'm+Praneesha" alt="Typing SVG" />
 </p>
 
-- 🎓 B.Tech student (Ed IT) at [Radiant College](https://radiantcollege.edu.np/) 
-- 🌱 Learning Html,CSS,JavaScript,C++
-- 📫 Reach out: praneeeshasapkota5@gmail.com
+- 🎓 I'm currently studying B.Tech(Ed IT) at [Radiant College](https://radiantcollege.edu.np/) 
+- 🌱 I'm learning Learning Html,CSS,JavaScript,C++
+- 📫 How to reach me: praneeeshasapkota5@gmail.com
 
 ---
 
