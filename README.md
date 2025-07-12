@@ -1,8 +1,10 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&pause=800&color=00CCFF&center=true&vCenter=true&width=650&repeat=true&lines=👋+Hello%2C+I'm+Praneesha;🎓+B.Tech+student+at+Radiant+College;🌱+Learning+HTML%2C+CSS%2C+JavaScript%2C+C%2B%2B" 
-    alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&pause=800&color=F700FF&center=true&vCenter=true&width=700&repeat=true&lines=👋+Hello+there!;I%27m+Praneesha+Sapkota;🌱+Aspiring+Web+Developer"
+    alt="Typing SVG"
+  />
 </p>
+
 
 
 - 🎓 I'm currently studying B.Tech(Ed IT) at [Radiant College](https://radiantcollege.edu.np/) 
