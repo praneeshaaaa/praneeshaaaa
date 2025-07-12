@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi+there!&animation=waving&color=gradient&height=100"/>
 </p>
 
-### 👋 Hello, I'm Mohit
+### 👋 Hello, I'm Praneesha
 
 - 🎓 B.Tech student (Ed IT) at Radiant College (https://radiantcollege.edu.np/) 
 - 🌱 Learning Html,CSS,JavaScript,C++
