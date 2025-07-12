@@ -1,13 +1,10 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi+there!&animation=waving&color=gradient&height=100"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=👋+Hello%2C+I'm+Praneesha" alt="Typing SVG" />
 </p>
 
-### 👋 Hello, I'm Praneesha
-
-- 🎓 B.Tech student (Ed IT) at Radiant College (https://radiantcollege.edu.np/) 
+- 🎓 B.Tech student (Ed IT) at [Radiant College](https://radiantcollege.edu.np/) 
 - 🌱 Learning Html,CSS,JavaScript,C++
-- 📫 Reach out: praneeeshasapkota@@gmail.com
+- 📫 Reach out: praneeeshasapkota5@gmail.com
 
 ---
 
