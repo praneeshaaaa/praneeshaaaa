@@ -1,11 +1,11 @@
   Hello there! I'm Praneesha Sapkota.
 
 
-- 🎓 I'm currently studying B.Tech(Ed IT) at [Radiant College](https://radiantcollege.edu.np/)
+ I'm currently studying B.Tech(Ed IT) at [Radiant College](https://radiantcollege.edu.np/)
 
-- 🌱 I'm learning Html,CSS,JavaScript,C++
+ I'm learning Html,CSS,JavaScript,C++
 
-- 📫 How to reach me: praneeeshasapkota5@gmail.com
+ How to reach me: praneeeshasapkota5@gmail.com
 
 ---
 
